@@ -1,0 +1,18 @@
+BLEU Score: 0.3490
+Flesch-Kincaid Simplified Grade Level: 13.10
+Flesch Simplified Reading Ease: 40.58
+Average SARI Score: {'sari': 33.36211660679748}
+Average BERTScore Precision: 0.8999
+Average BERTScore Recall: 0.9066
+Average BERTScore F1: 0.9031
+Original TTR score : 0.2631
+Simplified TTR score : 0.2953
+Average Compresion Ratio : 1.0286
+Original Word Length : 5.3866
+Original Sentence Length : 164.4255
+Simplified Word Length : 5.7087
+Simplified Sentence Length : 167.7447
+Average Pharaphrase Similarity : 0.9046
+SAMSA (dep-based) Average: 0.2530
+  ├─ Split term (avg): 0.2974
+  └─ Structure term (avg): 0.8393

@@ -1,0 +1,11 @@
+Passage ID 511: better grammar and use of synonyms makes it easier to read
+Passage ID 522: Passage 1 explains the technical words better.
+Passage ID 542: phrases like “break down the sentence” and “rearranging the words" in Passage 1 are clearer than technical phrases like “parse the source language string” or “surface string" from Passage 2
+Passage ID 548: explaining definitions
+Passage ID 546: easier words, definition provided. (it's still a bit long though)
+Passage ID 557: easier terms and shorter sentences
+Passage ID 582: passage2 seems like deductive paper than passage 1
+Passage ID 61: easier words
+Passage ID 68: clear phrases
+Passage ID 583: provides extra explanation
+Passage ID 85: extra explanation
